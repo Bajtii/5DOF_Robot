@@ -3,7 +3,9 @@
 ![image](https://github.com/user-attachments/assets/6064e07f-f151-4632-926a-ae4558f96e22)
 
 This project presents the design, modeling, and kinematic analysis of a 5-degree-of-freedom (5DOF) anthropomorphic welding robot, developed using SolidWorks and analytical methods. The robot is intended for precise and flexible welding tasks in controlled industrial environments.
+
 📘 Author: Bartosz Wojdon
+
 🎓 Mechatronics Engineering, AGH University of Science and Technology
 
 
@@ -32,16 +34,23 @@ All six parts (base, arms, joints) designed individually
 
 Assembled and validated through virtual simulation
 ![image](https://github.com/user-attachments/assets/0d700a51-7dc4-4b42-b0ba-bb00f3cc907e)
+
 ![image](https://github.com/user-attachments/assets/5186a953-f16b-40eb-a3ea-ba5ead44f44f)
+
 ![image](https://github.com/user-attachments/assets/46b5e495-ab5f-4b4a-a930-37fb27708916)
+
 ![image](https://github.com/user-attachments/assets/10cc32fa-e6c2-4d98-8af4-0f55a48d2f7c)
+
 ![image](https://github.com/user-attachments/assets/083a2846-5aa4-4e67-bd84-b2559c8e47a5)
+
 ![image](https://github.com/user-attachments/assets/e341a49c-4dc2-44ce-9c7a-985229d648c7)
 
 
 🧮 Kinematic Modeling
 🔧 Denavit-Hartenberg Parameters
+
 ![image](https://github.com/user-attachments/assets/897dfce3-0951-4253-b3bf-4723d5312e49)
+
 ![image](https://github.com/user-attachments/assets/417bbe8c-30b5-4f3e-ab7f-c28eea30a145)
 
 
