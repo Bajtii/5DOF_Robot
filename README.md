@@ -87,7 +87,7 @@ Details and full derivation are included in the attached PDF.
 
 ## 📄 Documentation
 
-📎 All equations, diagrams, and derivations are included in the attached [engineering thesis PDF](link-to-pdf-if-applicable).
+📎 All equations, diagrams, and derivations are included in the attached [engineering thesis PDF]([link-to-pdf-if-applicable](https://github.com/Bajtii/5DOF_Robot/blob/main/5DOF_Robot.pdf)).
 
 ---
 
