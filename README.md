@@ -9,6 +9,7 @@ This project presents the design, modeling, and kinematic analysis of a 5-degree
 🎓 Mechatronics Engineering, AGH University of Science and Technology
 
 
+
 **📌 Project Overview**
 
 ✅ Full CAD model built in SolidWorks
