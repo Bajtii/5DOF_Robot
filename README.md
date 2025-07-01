@@ -1,5 +1,7 @@
 # 🤖 5-DOF Welding Robot – Kinematic Modeling & Simulation
 
+![image](https://github.com/user-attachments/assets/6b9ccfd8-9ca5-44a9-8561-d4149c6eb6a8)
+
 A complete design and analysis of an anthropomorphic **5-degree-of-freedom (5-DOF) welding robot**. The robot was modeled and simulated using **SolidWorks**, with full **kinematic analysis** (forward & inverse) based on the **Denavit-Hartenberg (DH)** convention.
 
 > 📘 Author: **Bartosz Wojdon**  
