@@ -87,7 +87,9 @@ Details and full derivation are included in the attached PDF.
 
 ## 📄 Documentation
 
-📎 All equations, diagrams, and derivations are included in the attached [engineering thesis PDF]([(https://github.com/Bajtii/5DOF_Robot/blob/main/5DOF_Robot.pdf)](https://github.com/Bajtii/5DOF_Robot/blob/main/5DOF_Robot.pdf)).
+📎 [Download Full Report (PDF)](https://github.com/Bajtii/5DOF_Robot/blob/main/5DOF_Robot.pdf)  
+Contains full derivation of kinematic equations, DH parameters, symbolic matrices, and numerical examples.
+
 
 ---
 
