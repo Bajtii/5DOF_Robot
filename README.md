@@ -1,4 +1,4 @@
-🤖 5-DOF Welding Robot – Kinematic Modeling & Simulation
+**🤖 5-DOF Welding Robot – Kinematic Modeling & Simulation**
 
 ![image](https://github.com/user-attachments/assets/6064e07f-f151-4632-926a-ae4558f96e22)
 
@@ -9,7 +9,7 @@ This project presents the design, modeling, and kinematic analysis of a 5-degree
 🎓 Mechatronics Engineering, AGH University of Science and Technology
 
 
-📌 Project Overview
+**📌 Project Overview**
 
 ✅ Full CAD model built in SolidWorks
 
@@ -22,7 +22,7 @@ This project presents the design, modeling, and kinematic analysis of a 5-degree
 ✅ Mathematical modeling + SolidWorks simulation
 
 
-Robot Structure
+**Robot Structure**
 The robot has 5 rotational joints (DOF), designed to provide flexibility and reach for complex welding tasks. It was virtually constructed and analyzed using SolidWorks.
 
 
@@ -45,7 +45,7 @@ All six parts (base, arms, joints) designed individually Assembled and validated
 ![image](https://github.com/user-attachments/assets/e341a49c-4dc2-44ce-9c7a-985229d648c7)
 
 
-🧮 Kinematic Modeling
+**🧮 Kinematic Modeling**
 🔧 Denavit-Hartenberg Parameters
 
 ![image](https://github.com/user-attachments/assets/897dfce3-0951-4253-b3bf-4723d5312e49)
@@ -53,11 +53,11 @@ All six parts (base, arms, joints) designed individually Assembled and validated
 ![image](https://github.com/user-attachments/assets/417bbe8c-30b5-4f3e-ab7f-c28eea30a145)
 
 
-🔁 Forward Kinematics
+**🔁 Forward Kinematics**
 
 ![image](https://github.com/user-attachments/assets/bab3b3cb-2e1e-4320-906f-f2d3479817a9)
 
-🔄 Inverse Kinematics
+**🔄 Inverse Kinematics**
 
 The inverse kinematics of the robot was thoroughly derived and documented in the attached PDF report.
 
