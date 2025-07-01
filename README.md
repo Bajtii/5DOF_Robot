@@ -30,9 +30,8 @@ CAD Assembly & Parts
 
 Modeled in SolidWorks
 
-All six parts (base, arms, joints) designed individually
+All six parts (base, arms, joints) designed individually Assembled and validated through virtual simulation
 
-Assembled and validated through virtual simulation
 ![image](https://github.com/user-attachments/assets/0d700a51-7dc4-4b42-b0ba-bb00f3cc907e)
 
 ![image](https://github.com/user-attachments/assets/5186a953-f16b-40eb-a3ea-ba5ead44f44f)
