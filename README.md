@@ -54,6 +54,7 @@ All six parts (base, arms, joints) designed individually Assembled and validated
 
 
 🔁 Forward Kinematics
+
 ![image](https://github.com/user-attachments/assets/bab3b3cb-2e1e-4320-906f-f2d3479817a9)
 
 🔄 Inverse Kinematics
