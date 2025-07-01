@@ -11,7 +11,6 @@ This project presents the design, modeling, and kinematic analysis of a 5-degree
 
 
 **📌 Project Overview**
-
 ✅ Full CAD model built in SolidWorks
 
 ✅ Forward and inverse kinematics formulated analytically
@@ -24,7 +23,6 @@ This project presents the design, modeling, and kinematic analysis of a 5-degree
 
 
 **Robot Structure**
-
 The robot has 5 rotational joints (DOF), designed to provide flexibility and reach for complex welding tasks. It was virtually constructed and analyzed using SolidWorks.
 
 
